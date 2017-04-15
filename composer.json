@@ -1,5 +1,5 @@
 {
-  "name": "ayeo/gs1_barcode",
+  "name": "substacks/gs1_barcode",
   "version": "1.0",
   "description": "Generate GS1-128 standard barcode",
   "keywords": [
@@ -11,9 +11,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "ayeo",
-      "email": "me@ayeo.pl",
-      "homepage": "http://ayeo.pl"
+      "name": "James Preus Jr",
+      "email": "james@jppreusdev.com",
+      "homepage": "https://jppreusdev.com"
     }
   ],
   "minimum-stability": "dev",
