@@ -1,5 +1,5 @@
 {
-  "name": "substacks/gs1_barcode",
+  "name": "substacks/gs1_128",
   "version": "1.0",
   "description": "Generate GS1-128 standard barcode",
   "keywords": [
