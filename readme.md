@@ -1,7 +1,7 @@
 GS1 barcode generator
 =====================
 
-The library generates GS1 barcode. Currently supported formats: GS1 128. Code is under development so it may change
+The library generates GS1 barcode base64. Currently supported formats: GS1 128. Code is under development so it may change
 radically. If you found an issue just let me know.
 
 Usage
