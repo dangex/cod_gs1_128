@@ -1,5 +1,5 @@
 {
-  "name": "substacks/gs1_128",
+  "name": "dangex/cod_gs1_128",
   "version": "1.0",
   "description": "Generate GS1-128 standard barcode",
   "keywords": [
@@ -11,7 +11,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "James Preus Jr",
+      "name": "James Preus Jr, Daniel Bautista",
       "email": "james@jppreusdev.com",
       "homepage": "https://jppreusdev.com"
     }
